@@ -16,4 +16,5 @@ Relacionamento do tipo **1 para n**, ou seja, **1 para vários**.
 Relacionamento do tipo **n para m**, ou seja, **vários para vários**
 
 
+## Exercício
 ![exercicio](exercicio01.png)
