@@ -1,6 +1,9 @@
 # exemplo-modelagem-de-dados
  Atividades de estudo de modelagem de banco de dados
 
+## Exemplo de modelagem lógica
+
+![Modelo lógico do sistema vendas](modelo-logico-vendas.png)
 ## sobre tipos de relacionamento
 
 ### 1:1
